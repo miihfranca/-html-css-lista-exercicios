@@ -1,0 +1,9 @@
+img{
+    width: 150px;
+    height: 200px;
+}
+
+ul, ol{
+    border: solid 2px pink;
+    color: indigo;
+}
